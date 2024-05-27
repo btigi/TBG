@@ -1,0 +1,19 @@
+APPRENTICE: Swordsmen and women that travel the known world and study under various masters to perfect their swordsmanship. They follow a unique code of honor, somewhat like that of a knight or samurai and utilize their speed, power, and unique sword techniques to stun and decimate their foes.
+
+Advantages:
+- Bonus -2 to AC
+- An Apprentice starts off moving at +2 move and recieves another +2 move at level 12
+- Bonus -1 to speed factor for every 4 levels
+- Bonus +1 to hit and +1 to damage for every 6 levels
+- May use 'Bust' ability once per day per 6 levels
+- Bust: lasts 24 seconds, granting the Apprentice +5 to hit and +5 to damage. As well, all of his attacks do maximum damage for the duration. All attacks force the victim to save or be stunned.
+- Gains 'Sword Heaven' abilty at level 14 and the Apprentice may use it once per day
+- Sword Heaven: lasts 24 seconds, granting the Apprentice +5 to hit and +5 to damage. As well, the Apprentices' attacks per round are doubled and all of his attacks do maximum damage for the duration.
+
+Disadvantages:
+- May not wear armor greater than studded leather
+- Cannot become proficient in weapons other than swords
+- May not become proficient in the 'Sword and Shield' style
+- May not dual or multi-class
+- Can only be of a Good or Neutral alignment
+- Only Humans and Half-Elves may become Apprentices

@@ -1,0 +1,35 @@
+Sash of the Cat and Cobra
+
+  Besides making the simple hand and foot deadly weapons, the martial arts practiced
+throughout the realms center around the focusing of chi, or spirit, and the centering
+of the body with the mind and the spirit. Regardless of their actual skill level, for many
+the practicing of a martial art is as much a religion as the worshipping of any god.
+  "Cat" and "Cobra" were two seperate styles of Kung Fu taught to the human Fei Wu Jandel
+by the elven Ki`Del Brotherhood in the far southern regions of Kara-Tur. Just prior to
+leaving his monastary, Fei Wu was able to combine the two styles into a deadly art that
+gave its practitioner the skills and bonuses of both.
+  "Cat" allowed for great agility and speed during combat, using swift hand strikes in
+long, low stances while "Cobra" was equally quick but coiled and vicious in its attack,
+sometimes killing opponents with a single blow.
+  A slightly faster than normal healing factor and the dexterity to dodge and even strike
+missile weapons from the very air are two of the duel arts' more complex and valuable
+abilities. Due to the extensive meditation required in mimicing the animals of "Cat and
+Cobra", the martial artist is able to sense ripples in the air around him; ripples created
+by the motion of bodies in space, regardless if they are visible to the eye or not.
+  This sash is only the symbolic representation of Fei Wu's Kung Fu, worn while he trained
+in the art, and as such has no armor class or real magics innate unto itself.
+
+STATISTICS:
+
+  "Meditation" (Regenerates 1 hit point every 2 rounds)
+  "Quick Strike" (+1 to Attack Speed)
+  "Pause & Silence" (+3 to Fist's THACO)
+  "Iron Fist" (+8 to Fist's Damage)
+  "Flowing Water" (+2 to Armor Class)
+  "Missile Deflection" (+10 to Armor Class vs Missile Weapons)
+  "All-Around Sight" (Backstab Immunity)
+  "Instant Stand" (75% chance to resist being Stunned)
+
+Weight: 1
+Not Uusable By:
+Evil Characters

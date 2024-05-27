@@ -1,0 +1,80 @@
+Kit Installation guide
+
+Follow these directions and you should have no problem installing this kit...Before you start, note that this kit has only been used in Shadows of Amn...I do not have Throne of Bhaal and, therefore, do not know how to make/install this kit for it. Trust me...although these instructions may seem long and confusing...they're actually quite easy to pull off. Also, make a copy of your Baldur's Gate 2 override folder before you even THINK of installing this kit. If you already know how to install kits...COOL! If you already have custom kits installed, this will overwrite them unless, have the know-how and or programs/utilities to install multiple kits cuz I sure don't...or maybe I'm just too lazy to make a readme for it. :)
+_______________________________________________________________________
+
+1) If you do not have these already, download and install the Infinity Engine Editor Pro (and the VB6 runtime package if needed) from www.teambg.com and shadowkeeper (look it up in a net search).
+
+2) Open the Apprentice zip file. (If you do not have a zip utility, download either Winzip or EnZip...they should do just fine).
+
+3) Copy the contents, with the exception of the readme and kit description, to your Baldur's Gate 2 override folder.
+
+4) Now it's time for the weird stuff...
+
+5) Open the Infinity Engine Editor (If it doesn't open or acts screwy, you'll most likely need to install the VB6 package from the teambg website) and click dialog.tlk (If it does not show a baldur's gate 2 SOA type screen at the menu, you'll have to select it with the edit options and game choice tabs)
+
+6) In your override folder find a file called "kitlist.2da" and open using a program like wordpad.
+
+7) scroll to the bottom and you should see this line...
+
+32   APPRENTICE     ***** ***** ***** CLABKN02  53      0x00010000  2
+
+8) If you've activated the dialog.tlk edit in the Infinity Engine Editor, you should see a screen with the choices "read" "write" and "search" among other things. Click the Write button and, in the large space above, type "APPRENTICE" (don't use the quotation marks) and push the "write to dialog" button. A number should pop up like "66237" (example). Whatever number you get is what you should use to replace the first two "*****" in the kitlist.
+
+9) Open up the Apprentice kit description again, select all of the text within, and click copy.
+
+10) Go back to the dialog.tlk editor and clear the blank where you put the word "APPRENTICE". Delete that word and, in it's place, paste the kit description text. Press the "write to dialog" button once more and use the number you get to replace the third and last "*****".
+
+11) Congratulations! You can now play as the unique Apprentice Kit! When creating a human or half elven character, choose the fighter class and the Apprentice kit choice should be directly under kensai, berserker, and wizard slayer. Select it and have fun as this kit's unique abilities, power, and speed are all well worth the trouble you took in instaling it.
+_______________________________________________________________________
+
+Note: Custom kits are for use in single player modes only...I love breaking rules :) To enable an Apprentice-type character for multiplayer, follow these short and easy steps.
+
+1) If you've started a game in single player mode, go in the game and export him/her. If you've already got an Apprentice saved, even better!
+
+2) Open up shadowkeeper (should be version 2.1.4 or newer).
+
+3) Click the file tab and open character. Select whichever character you made into an Apprentice.
+
+4) Click the "characteristics" tab and click the "set value" button in the "kit" line. Under "known" find "true class", select it, and click "ok".
+
+5) Now click the "Innate" tab. Should be a list of spell icons. Find the "Bust" (and Sword Heaven if it's listed) ability and click the "remove spell" button. 
+
+6) If you still want Bust-like abilities, click the "Add Spell" button. Find the Innate Level 1 ability called "Offensive Spin" and double click it. It should now be listed in your character's spell list. Click the "Mem +" button until you've until the column under "xMem" has the same number as the amount of Bust and/or Sword Heaven spells your character had memorized.
+
+7) Save the character. Import him/her whenever you wish to use him/her in a multiplayer game for Baldur's Gate 2. It might be a good idea to export your characters while in the game when you level up or get new equipment. It's kinda like saving any normal game.
+
+8) Have fun and laugh whenever someone asks if you're wearing boots of speed!
+
+9) to uninstall this kit, simply copy and paste the files from your backup override folder into the main override folder.
+______________________________________________________________________
+
+Other than the steps listed, anything else you do with your characters and shadowkeeper is your business. 
+
+This kit and all the others that I've used have had no problems running on my computer, so if something goes wrong, it's most likely your fault. 
+
+If you have questions or need help with anything, send an email at SpiritKnight@bolt.com and I'll do my best to aid you. 
+
+I'm pretty open-minded, so if you've got an at least, halfway complete idea for a kit, send it to me and I'll try to create it. If your idea is for an insanely overpowered/cheap kit, don't even bother sending it to me. 
+
+If computer blows up (I've never heard of that happening) it ain't my damn fault, cuz, as I said, I have NEVER had any problems with this or any other kit unless I goofed up one of the steps (even then, the problems are minor and can be fixed). 
+_______________________________________________________________________
+
+Special Thanks to...  
+
+The Creators of AD&D and the Baldur's Gate series
+
+Teambg for their incredible tools, the makers of Shadow Keeper, Gate Keeper, and the many great kit and npc creators out there (You inspired me to do this!).
+
+Those who gave me life.
+
+Me!
+
+My PC for being so good to me.
+
+And anyone who gave this kit (hard work) the time of day and tried it...even if you didn't like it.
+______________________________________________________________________
+
+IT TOOK ME 2 HOURS TO MAKE THIS README!!! YOU BETTA HAD READ THE WHOLE DAMN THING!!! It's 4 o' clock in the mornin'...I'm goin' to sleep...
+
+

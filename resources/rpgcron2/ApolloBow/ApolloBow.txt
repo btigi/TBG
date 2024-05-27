@@ -1,0 +1,17 @@
+Apollo's Bow
+
+Apollo used this bow many times with his famed Arrows of Disease. He wiped out many a Greek with these weapons.
+
+STATISTICS:
+
+THACO: +4
+Special: Create 20 Apollo's Arrows twice per day
+Weight: 2
+Speed Factor: 3
+Proficiency Type: Longbow
+Type:  2-handed
+Requires: 6 Strength
+Not Usable By:
+ Druid
+ Cleric
+ Mage

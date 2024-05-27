@@ -1,0 +1,38 @@
+The FourBlade: Katana +5
+
+  While it appears to be simply a well-made katana, the FourBlade is anything but. It was
+given to Arawn Chen from his master, Baek Chen, shortly before the Ranger's own death. Baek
+preferred the slender blades of the katana and the wakizashi because they were better-suited
+to his speed-oriented style of kung fu, Pak Mei.
+  A powerful weapon on its own right, FourBlade's true power resides in the four gems inset
+into the katana's pommel: A ruby, a diamond, a sapphire, and an emerald. In addition to any
+damage done by the weapon's extraordinarily keen blade, the FourBlade will also incur either
+Fire, Ice, Lightning, or Acid damage to its target.
+  The mysteries surrounding this weapon's creation are just that:  Mysteries.
+  Baek used the blade for many years but never claimed to have crafted it himelf; nor did
+he reveal from whom it had been given.
+  Upon receiving it himself, Arawn used the blade his entire life; carrying it in every
+encounter from vanquishing vampir to the long years during and after the Gondevahr Wars.
+As such, Arawn has formed a magical, almost sembiotic, relationship with the katana and no
+one else would be able to use it nearly as effectively in battle. The bushi warrior became
+so deft, so deadly quick, with the weapon that no one has ever been able to draw in battle
+before him.
+
+STATISTICS:
+Equipped Effects:
++50 resistance to Fire, Ice, Lightning, & Acid
+THACO: +5 Bonus
+Damage: 1D10+7
+Combat Effects:
+1D4 of additional Fire, Ice, Lightning or Acid damage with every successful hit
+Damage type: slashing
+Weight: 4
+Speed Factor: None
+Proficiency Type: Katana
+Weapon Type: 1-handed
+Requires: 18/65 Strength & 19 Denterity
+Not Usuable By:
+Druid
+Cleric
+Mage
+"Anyone stupid enough to try & take it from me."

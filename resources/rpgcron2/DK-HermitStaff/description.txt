@@ -1,0 +1,22 @@
+The iap file contains two files that go into the override folder of the game. One of them is item file hstaff
+  Hermit's Staff +5
+This staff is said to once belong to a mad hermit, who lived in a cave in the mountains of the Spine of the World. Nobody knows how he came into possession of this weapon, but the fact is that this once extremely powerful weapon became corrupted by the madness of its owner. It makes the spellcasting very dangerous, because the results of the simpliest spells becomes unpredictable. Due to the nature of  this item the charisma of its wielder becomes 10.
+
+STATISTICS:
+
+Damage:  1D6 + 5
+Equipped effects: +5 THAC0 bonus, +5  Damage bonus,  bonus +1 to all saving throws, +10 bonus HP, Charisma set to 10, Unpredictable results of spellcasting.
+Weight: 4
+Speed Factor: 1
+Proficiency Type: Staff
+Type: Two-handed
+Requires: 10 Strength, 10 Intelligence, 15 Wizdom
+Not usable by
+  monk
+  
+
+
+another file is an area file Ar2015.are
+it is one of the tents in the Trademeet. The item hstaff is on the left shelf.
+
+I tested this item and found it working.

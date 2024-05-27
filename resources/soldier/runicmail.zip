@@ -1,0 +1,364 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app203.us.archive.org';v.server_ms=354;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=xTFGO54E" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://soldier.rpgxtreme.com:80/armor/runicmail.zip","20001012072809","http://web.archive.org/","web","/_static/",
+	      "971335689");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=omkqRugM" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>tripod - welcome to tripod!</title>
+<script language="javascript">
+	<!--
+	// rollover script
+	if (document.images) {
+	var build = new Image(); build.src = "/adm/img/nav/build_47x17.gif";
+	var buildroll = new Image(); buildroll.src = "/adm/img/nav/buildR_47x17.gif";
+	var explore = new Image(); explore.src = "/adm/img/nav/explore_47x17.gif";
+	var exploreroll = new Image(); exploreroll.src = "/adm/img/nav/exploreR_47x17.gif";
+	var interact = new Image(); interact.src = "/adm/img/nav/interact_47x17.gif";
+	var interactroll = new Image(); interactroll.src = "/adm/img/nav/interactR_47x17.gif";
+	var buy = new Image(); buy.src = "/adm/img/nav/buy_50x17.gif";
+	var buyroll = new Image(); buyroll.src = "/adm/img/nav/buyR_50x17.gif";
+	}
+	function turnOn(imgName) {
+	if (document.images) document[imgName].src = eval(imgName + 'roll' + '.src');
+	}
+	function turnOff(imgName) {
+	if (document.images) document[imgName].src = eval(imgName + '.src');
+	}
+	// -->
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000099" vlink="#000099" alink="#ffffff" marginheight="5" marginwidth="4" topmargin="5" leftmargin="3"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="wm-ipp-inside">
+  <div style="position:relative;">
+    <div id="wm-logo" style="float:left;width:110px;padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="r" style="float:right;">
+      <div id="wm-btns" style="text-align:right;height:25px;">
+                  <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php"
+             title="Sign In"
+             id="wm-sign-in"
+          >
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        	<a href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" onclick="__wm.h(event);return false;" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share">
+          <a href="/web/20001012072809/http://web.archive.org/screenshot/http://soldier.rpgxtreme.com/armor/runicmail.zip"
+             id="wm-screenshot"
+             title="screenshot">
+            <span class="wm-icon-screen-shot"></span>
+          </a>
+          <a href="#"
+            id="wm-video"
+            title="video">
+            <span class="iconochive-movies"></span>
+          </a>
+	<a id="wm-share-facebook" href="#" data-url="http://web.archive.org/web/20001012072809/http://soldier.rpgxtreme.com:80/armor/runicmail.zip" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="http://web.archive.org/web/20001012072809/http://soldier.rpgxtreme.com:80/armor/runicmail.zip" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class="c" style="">
+      <tbody>
+	<tr>
+	  <td class="u" colspan="2">
+	    <form target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://soldier.rpgxtreme.com/armor/runicmail.zip" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20001012072809" /><input type="submit" value="Go" /></form>
+	  </td>
+	  <td class="n" rowspan="2" style="width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class="m">
+		  <td class="b" nowrap="nowrap">Sep</td>
+		  <td class="c" id="displayMonthEl" title="You are here: 07:28:09 Oct 12, 2000">OCT</td>
+		  <td class="f" nowrap="nowrap">Nov</td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class="d">
+		  <td class="b" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_prv_off.png" alt="Previous capture" width="14" height="16" border="0" /></td>
+		  <td class="c" id="displayDayEl" style="width:34px;font-size:24px;white-space:nowrap;" title="You are here: 07:28:09 Oct 12, 2000">12</td>
+		  <td class="f" nowrap="nowrap"><img src="/_static/images/toolbar/wm_tb_nxt_off.png" alt="Next capture" width="14" height="16" border="0" /></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class="y">
+		  <td class="b" nowrap="nowrap">1999</td>
+		  <td class="c" id="displayYearEl" title="You are here: 07:28:09 Oct 12, 2000">2000</td>
+		  <td class="f" nowrap="nowrap">2001</td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="s">
+	    	    <div id="wm-nav-captures">
+	      	      <a class="t" href="/web/20001012072809*/http://soldier.rpgxtreme.com/armor/runicmail.zip" title="See a list of every capture for this URL">1 capture</a>
+	      <div class="r" title="Timespan for captures of this URL">12 Oct 2000</div>
+	      </div>
+	  </td>
+	  <td class="k">
+	    <a href="" id="wm-graph-anchor">
+	      <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+		<canvas id="wm-sparkline-canvas" width="650" height="27" border="0"></canvas>
+	      </div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style="position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span style="font-size:80%">About this capture</span></a>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexacrawls);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/alexacrawls" target="_new"><span class="wm-title">Alexa Crawls</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href="http://www.alexa.com/">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href="http://web.archive.org/">Wayback Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/alexa_aug)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/alexa_aug" target="_new"><span class="wm-title">Alexa Crawl AUG</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Crawl AUG from Alexa Internet.  This data is currently not publicly accessible.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - http://web.archive.org/web/20001012072809/http://soldier.rpgxtreme.com:80/armor/runicmail.zip</div>
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=http%3A//web.archive.org/web/20001012072809/http%3A//soldier.rpgxtreme.com%3A80/armor/runicmail.zip"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><script type="text/javascript">
+__wm.bt(650,27,25,2,"web","http://soldier.rpgxtreme.com/armor/runicmail.zip","20001012072809",1996,"/_static/",["/_static/css/banner-styles.css?v=omkqRugM","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<form action="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/search/_h_/www.tripod.com/bin/search/pursuit" method="get">
+<input type="hidden" name="matchmode" value="and">
+<tr bgcolor="#000000">
+    <td valign="middle"><a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/lycos_network/_h_/www.lycos.com/network/"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav_network/lycosnetwork.gif" width="156" height="28" border="0" hspace="7"></a></td>
+    <td align="right" valign="middle" colspan="2" nowrap><font face="VERDANA,HELVETICA,ARIAL" size="-2" color="#cccccc">Search:<input type="RADIO" name="cat" value="lycos" checked>The Web<input type="RADIO" name="cat" value="tripod">Tripod&nbsp;</font><input type="text" name="query" size="18">&nbsp;<input type="image" src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav_network/gogetit.gif" border="0" align="absmiddle">&nbsp;</td>
+</tr>
+</form>
+</table><table width="100%" bgcolor="#cccccc" cellspacing="0" cellpadding="1" border="0"><tr><td nowrap><font face="Verdana,Helvetica,Arial" size="-2" color="#000000"><a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/lycos/_h_/www.lycos.com/"><font color="#000000">Lycos.com</font></a> | <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/angelfire/_h_/www.angelfire.com/"><font color="#000000">Angelfire.com</font></a> | <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/whowhere/_h_/www.whowhere.lycos.com/"><font color="#000000">WhoWhere.com</font></a> | <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/mailcity/_h_/mailcity.lycos.com/"><font color="#000000">MailCity.com</font></a> | <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/hotwired/_h_/www.hotwired.com/"><font color="#000000">Hotwired.com</font></a> | <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/hotbot/_h_/www.hotbot.com/"><font color="#000000">HotBot.com</font></a></font></td><td align="right" nowrap><font face="Verdana,Helvetica,Arial" size="-2"><a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/allsites/_h_/www.lycos.com/network/"><font color="#000000">All Sites...</font></a>&nbsp;</font></td></tr></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td width="68" bgcolor="#333333"><a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/trilogo/_h_/www.tripod.com/"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/tripod_68x23.gif" alt="tripod" width="68" height="23" border="0" vspace="3"></a></td>
+		<td width="60%" bgcolor="#333333" valign="bottom" nowrap>&nbsp;<img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/newmenu.gif" alt="home | search | scores/news/stocks | free email | help" width="291" height="7" border="0" hspace="2" vspace="6" usemap="#navLinks"></td>
+		<td width="40%" align="right" valign="bottom" nowrap bgcolor="#333333">
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/build/_h_/www.tripod.com/build/" onmouseover="turnOn('build')" onmouseout="turnOff('build')"><img name="build" src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/build_47x17.gif" alt="build" width="47" height="17" border="0" hspace="3" vspace="3"></a>
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/explore/_h_/www.tripod.com/explore/" onmouseover="turnOn('explore')" onmouseout="turnOff('explore')"><img name="explore" src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/explore_47x17.gif" alt="explore" width="47" height="17" border="0" hspace="3" vspace="3"></a>
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/interact/_h_/www.tripod.com/interact/" onmouseover="turnOn('interact')" onmouseout="turnOff('interact')"><img name="interact" src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/interact_47x17.gif" alt="interact" width="47" height="17" border="0" hspace="3" vspace="3"></a>
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/buy_sell/_h_/www.tripod.com/buy_sell/" onmouseover="turnOn('buy')" onmouseout="turnOff('buy')"><img name="buy" src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/buy_50x17.gif" alt="buy/sell" width="50" height="17" border="0" hspace="3" vspace="3"></a></td>
+		
+	</tr>
+</table>
+
+<center>
+<table border="0" cellspacing="0" cellpadding="1" width="100%">
+	<tr>
+		<td align="center" colspan="3">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td align="right">
+<!-- ad banner img -->
+<a href="/web/20001012072809/http://soldier.rpgxtreme.com/bin/accipiter/adclick.exe?CID=000080dc0000037f00000000"><img src="http://web.archive.org/web/20001012072809im_/http://ads.tripod.com/tripod/468x60/auc46home.gif" width="468" height="60" alt="Tripod Auctions" border="2" hspace="5"><br>
+<font size="1" face="helvetica, arial, sans serif">Tripod Auctions</font></a>
+
+<!-- __________________ -->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+
+
+<br><table border="0" cellspacing="0" cellpadding="0" width="92%" align="center">
+	<tr>
+		<td width="12" bgcolor="#FFFFFF" align="CENTER">&nbsp;</td>
+		<td colspan="3" valign="BOTTOM"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td align="LEFT" valign="BOTTOM" width="210" bgcolor="#FFFFFF"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/interstitial/tripodtop.gif" width="210" height="51" border="0"></td>
+				<td align="LEFT" width="100%"><font face="helvetica, verdana, sans serif" size="-1"><b>Hello!</b> This file is hosted by Tripod, a Lycos<sup>&reg;</sup> Network site, providing the best personal and commercial publishing tools available on the Net. For premier homepages and lively community interaction, visit Tripod often.</font><br><br></td>
+			</tr>
+			</table></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FFCC33" valign="TOP"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/interstitial/grncnr1.gif" width="12" height="18" border="0"></td>
+		<td width="210" height="18" bgcolor="#FFCC33" valign="TOP"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/interstitial/tripodbot.gif" width="210" height="18" border="0"></td>
+		<td colspan="2" width="100%" bgcolor="#FFCC33" align="CENTER">&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="4" bgcolor="#FFCC33" align="CENTER">
+			<br><table align="LEFT" cellspacing="0" cellpadding="8" border="0">
+				<tr>
+					<td width="26" valign="TOP"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/interstitial/getfile.gif" width="26" height="23" border="0"></td>
+					<td valign="TOP" align="LEFT"><font face="helvetica, verdana, sans serif" size="-1"><b>Please click on<br><a href="http://web.archive.org/web/20001012072809/http://members.tripod.com/~lordofgrave/nimrod.zip">http://members.tripod.com/~lordofgrave/nimrod.zip</a><br>to download this file.</b></font></td>
+				</tr>
+			</table>
+</td>
+	</tr>
+	<tr>
+		<td colspan="4" bgcolor="#FFCC33" align="RIGHT" valign="BOTTOM"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/interstitial/grncnr2.gif" width="12" height="12" border="0"></td>
+	</tr>
+</table><br>
+
+<br clear="all">
+<table border="0" cellspacing="0" cellpadding="1" width="100%">
+	<tr>
+		<td valign="bottom" colspan="2" nowrap bgcolor="#333333"><a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/tripod_main/_h_/www.tripod.com/"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/tripod.gif" alt="Tripod" width="51" height="11" border="0" vspace="1"></a><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/newmenu.gif" alt="home | search | scores/news/stocks | free email | help | log-out" width="291" height="7" border="0" hspace="2" vspace="2" usemap="#navLinks"></td>
+		<td align="right" valign="bottom" colspan="2" nowrap bgcolor="#333333"><img src="/web/20001012072809im_/http://soldier.rpgxtreme.com/adm/img/nav/nav_bottom_right_130x10.gif" width="130" height="10" border="0" vspace="2" hspace="5" usemap="#bottom_right"></td>
+	</tr>
+	<tr>
+		<td colspan="4" bgcolor="#999966">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td>
+						<font size="1" color="#000000" face="helvetica, arial, sans serif">&nbsp;&nbsp;
+						A <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/lycos_network/_h_/www.lycos.com/network/"><font color="#000000">Lycos Network</font></a> Site
+						</font>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<center>
+<table border="0" cellspacing="2" cellpadding="0" align="center">
+	<tr><td><font size="-2">&nbsp;</font></td></tr>
+	<tr>
+		<td align="center" colspan="3" nowrap>
+		
+			 
+			 <font color="#006666" face="verdana, helvetica, arial, sans serif" size="-2"><b>Get Tripod in:</b> 
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/uk/_h_/www.tripod.co.uk/"><font color="#006666">United Kingdom</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/italy/_h_/www.tripod.it/"><font color="#006666">Italy</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/germany/_h_/www.tripod.de/"><font color="#006666">Germany</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/france/_h_/www.tripod.fr/"><font color="#006666">France</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/spain/_h_/www.es.tripod.de/"><font color="#006666">Spain</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/nl/_h_/www.tripod.lycos.nl/"><font color="#006666">Netherlands</font></a><br>
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/korea/_h_/www.tripod.co.kr"><font color="#006666">Korea</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/peru/_h_/www.tripod.com.pe/"><font color="#006666">Peru</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/americas/_h_/americas.tripod.com/"><font color="#006666">Americas</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/mexico/_h_/www.tripod.com.mx/"><font color="#006666">Mexico</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/venezuela/_h_/www.tripod.com.ve/"><font color="#006666">Venezuela</font></a> -
+			 <a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/tripod_international/nosection/chile/_h_/www.tripod.cl/"><font color="#006666">Chile</font></a></font> 
+			</font>
+			<br><br>
+			<font size="-2" color="#666666" face="arial, helvetica, sans serif">
+			<center>
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/international/_h_/www.tripod.com/international/"><font color="#666666">Tripod International</font></a>&nbsp;&nbsp;|&nbsp; 
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/advertise/_h_/www.tripod.com/tripod/mediakit/request.html"><font color="#666666">Advertise with Tripod</font></a>&nbsp;&nbsp;|&nbsp; 
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/privacy/_h_/www.tripod.com/planet/membership/signup/privacy.html"><font color="#666666">Privacy Vow</font></a>&nbsp;&nbsp;|&nbsp; 
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/tos/_h_/www.tripod.com/planet/membership/signup/tos.html"><font color="#666666">Terms of Service</font></a> &nbsp;&nbsp;|&nbsp; 
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/status/_h_/www.tripod.com/tripod/system/index.html"><font color="#666666">Check System Status</font></a> 
+			</center>
+			</font>
+		</td>
+	</tr>
+	<tr><td></td></tr>
+	<tr>
+		<td align="center" colspan="3" nowrap>
+			<font size="-2" color="#666666" face="arial, helvetica, sans serif">
+			<center>
+			&copy;<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/tripod_inc/_h_/www.tripod.com/tripod/"><font color="#666666">Tripod Inc.</font></a>
+			Tripod <font size="1">&reg;</font> is a registered servicemark of Tripod, Inc., a 
+			<a href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/lycos/_h_/www.lycos.com"><font color="#666666">Lycos</font></a> Company.
+			<br>
+			All rights reserved.
+			</center>
+			</font>
+			
+			 
+		</td>
+	</tr>
+</table>
+</center>
+	<map name="navLinks">
+<area shape="rect" coords="250, 0, 290, 6" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/logout/_h_/www.tripod.com/bin/membership/logout/" alt="log-out">
+<area shape="rect" coords="222, 0, 246, 6" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/help/_h_/help.tripod.com/" alt="Help">
+<area shape="rect" coords="184, 0, 237, 6" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/free_email/_h_/www.mailcity.lycos.com/" alt="Free Email">
+<area shape="rect" coords="71, 0, 177, 6" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/personal/_h_/personal.lycos.com/" alt="Scores/News/Stocks">
+<area shape="rect" coords="29, 0, 66, 6" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/search_link/_h_/www.tripod.com/search/" alt="Search">
+<area shape="rect" coords="0, 0, 23, 6" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/top_nav/no_section/home/_h_/www.tripod.com/" alt="Home">
+		</map>
+<map name="bottom_right">
+  <area shape="rect" coords="95,0,129,9" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/buy_sell/_h_/www.tripod.com/buy_sell/">
+  <area shape="rect" coords="57,0,93,9" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/interact/_h_/www.tripod.com/interact/">
+  <area shape="rect" coords="22,0,55,9" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/explore/_h_/www.tripod.com/explore/">
+  <area shape="rect" coords="0,0,20,9" href="http://web.archive.org/web/20001012072809/http://linktracker.tripod.com/bottom_nav/no_section/build/_h_/www.tripod.com/build/">
+</map>
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 07:28:09 Oct 12, 2000 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:58:28 Aug 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 159.002
+  exclusion.robots: 0.22
+  exclusion.robots.policy: 0.211
+  RedisCDXSource: 6.013
+  esindex: 0.008
+  LoadShardBlock: 137.33 (3)
+  PetaboxLoader3.datanode: 221.202 (4)
+  CDXLines.iter: 13.6 (3)
+  load_resource: 188.855
+  PetaboxLoader3.resolve: 45.972
+-->

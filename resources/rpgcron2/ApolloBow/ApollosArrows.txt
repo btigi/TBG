@@ -1,0 +1,14 @@
+Apollo's Arrows
+
+Apollo used these arrows against the Greeks. They caused much disease.
+STATISTICS:
+
+Damage:  1D6+2
+Damage type:  missile (piercing)
+Special:  75% Chance of the target becoming disesed
+Weight: 0
+Launcher:  Bow
+Not usable by:
+ Cleric
+ Druid
+ Mage

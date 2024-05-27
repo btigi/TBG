@@ -1,0 +1,78 @@
+Baldur's Gate 2
+
+First: You need to enter Debug Mode=1 under Program Options in the baldur.ini file in your Baldur's Gate directory and then save.
+Second: Import the .tbg with the Infinity Addon Patcher after unzipping the .zip file.
+Third: Start Baldur's Gate 2 and press CTRL+Space while in the game.
+Fourth: Type one of the following exactly as I have it, without the name of the item.
+
+Weapoms
+
+CLUAConsole:CreateItem("ArroGM01") - Arrows of Artemis
+CLUAConsole:CreateItem("ArroGM02") - Apollo's Arrows
+CLUAConsole:CreateItem("ArroGM03") - Cupid's Love Arrows
+CLUAConsole:CreateItem("ArroGM04") - Ice and Acid Arrows
+CLUAConsole:CreateItem("BlasBlad") - Blast Blade
+CLUAConsole:CreateItem("BowGM01") - Bow of Artemis
+CLUAConsole:CreateItem("BowGM02") - Apollo's Bow
+CLUAConsole:CreateItem("BowGM03") - Cupid's Bow
+CLUAConsole:CreateItem("BowGM04") - Forest Bow
+CLUAConsole:CreateItem("Calandor") - Callandor
+CLUAConsole:CreateItem("ClubGM01") - Club of Hercules
+CLUAConsole:CreateItem("DaggGM01") - Dagger of Artemis
+CLUAConsole:CreateItem("HammGM01") - Athena's Warhammer
+CLUAConsole:CreateItem("KataGM01") - Ice Katana of Poseidon
+CLUAConsole:CreateItem("KataGM02") - Fire Katana of Prometheus
+CLUAConsole:CreateItem("SperGM01") - Poseidon's Trident
+CLUAConsole:CreateItem("SperGM02") - Nike's Spear
+CLUAConsole:CreateItem("StafGM01") - Staff of Hermes
+CLUAConsole:CreateItem("StafGM02") - Druid's Staff
+CLUAConsole:CreateItem("SworGM01") - Sword of Ares
+CLUAConsole:CreateItem("SworGM02") - Sword of Truth
+CLUAConsole:CreateItem("SworGM03") - Long Sword+3
+CLUAConsole:CreateItem("SworGM04") - Sword of Life and Death
+CLUAConsole:CreateItem("SworGM05") - Short Sword of the Mage
+CLUAConsole:CreateItem("SworGM06") - Paladin Slaying Sword
+CLUAConsole:CreateItem("SworGM07") - Burn
+CLUAConsole:CreateItem("SworGM08") - Bite
+CLUAConsole:CreateItem("SworGM10") - Daylight
+CLUAConsole:CreateItem("SworGM11") - Midnight
+CLUAConsole:CreateItem("SworGM12") - Undead Scimitar
+CLUAConsole:CreateItem("SworGM13") - The Miner
+CLUAConsole:CreateItem("SworGM14") - Sihn's Soulreaver
+CLUAConsole:CreateItem("SworGM15") - Severium
+CLUAConsole:CreateItem("WhirlGM") - Whirlwind
+
+Armor
+
+CLUAConsole:CreateItem("ArmoGM01") - Armor of Zeus
+CLUAConsole:CreateItem("ArmoGM02") - Mithrall Field Plate Armor+4
+CLUAConsole:CreateItem("ArmoGM03") - Full Plate+5
+CLUAConsole:CreateItem("ArmoGM04") - Robe of the Shou'el Fanar
+CLUAConsole:CreateItem("BeltGM01") - Aphrodite's Belt
+CLUAConsole:CreateItem("BootGM01") - Boots of Hermes
+CLUAConsole:CreateItem("BootGM02") - Dark Boots
+CLUAConsole:CreateItem("GaunGM01") - Gauntlets of Ares
+CLUAConsole:CreateItem("HelmGM01") - Hade's Helm
+CLUAConsole:CreateItem("HelmGM02") - Helm of Mind Protection
+CLUAConsole:CreateItem("HelmGM03") - Wizard's Hat
+CLUAConsole:CreateItem("ShieGM01") - Shield of Achilles
+CLUAConsole:CreateItem("ShieGM02") - Shield of Spell Deflection
+
+Misc.
+
+CLUAConsole:CreateItem("AmulGM01") - Dark Amulet
+CLUAConsole:CreateItem("RingGM01") - Narya
+CLUAConsole:CreateItem("RingGM02") - Dark Ring
+
+Spells
+
+CLUAConsole:LearnSpell("Balefire") - Balefire
+CLUAConsole:LearnSpell("DanceGM") - Dance With the Dead
+CLUAConsole:LearnSpell("DSkinBlk") - Skin of the Black Dragon
+CLUAConsole:LearnSpell("DSkinRed") - Skin of the Red Dragon
+CLUAConsole:LearnSpell("DSkinSil") - Skin of the Silver Dragon
+CLUAConsole:LearnSpell("SArmoGM") - Shadow Armor
+CLUAConsole:LearnSpell("SBladGM") - Shadow Blade
+CLUAConsole:LearnSpell("SBoltGM") - Shadow Bolt
+CLUAConsole:LearnSpell("SoulStel") - Soul Stealer
+CLUAConsole:LearnSpell("WhirlGM") - Whirlwind Attack

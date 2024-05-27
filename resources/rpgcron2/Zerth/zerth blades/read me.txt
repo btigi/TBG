@@ -1,0 +1,68 @@
+==================================================================================
+Pack Name:  zerth blades
+==================================================================================
+Creator Name:  namelessone
+Creator Email:  namelessone_01@hotmail.com
+Creator Web URL:  none
+==================================================================================
+Compatible Games:
+-----------------
+
+ [ ] Baldur's Gate
+ [ ] Baldur's Gate: Tales of the Sword Coast
+
+ [x] Baldur's Gate II: Shadows of Amn
+ [ ] Baldur's Gate II: Throne of Bhaal
+
+ [ ] Icewind Dale
+ [ ] Icewind Dale: Heart of Winter
+ [ ] Icewind Dale: Heart of Winter with Trials of the Luremaster
+
+ [ ] Planescape: Torment
+
+==================================================================================
+Pack Contents/Description:
+This pack changes dak'kon's zerth blade so that it changes into more powerful 
+versions of itself as you level up. At levels 10,15,20 and 25 it changes.
+The fifth version cannot be gained normally with SoA unless you have an exp.cap
+remover installed or have ToB.the other to get it is to type 
+CLUAConsole:CreateItem("wa2dak5").
+This pack replaces the original "dak'kon's zerth blade" that can be bought off
+a bonus merchant in ribalds adventure mart. the only difference between the 
+original and my version is that mine was cahnged so that it'll level up.
+The files included are:
+wa2dak.tbg
+wa2dak2.tbg
+wa2dak3.tbg
+wa2dak4.tbg
+wa2dak5.tbg
+dakkon1.bcs
+dakkon2.bcs
+dakkon3.bcs
+dakkon4.bcs
+==================================================================================
+HOW TO INSTALL:
+---------------
+To insert this custom file or file pack into your game, you need to download,
+install and use TeamBG's IEES (Infinity Engine Editor Standard). This program
+contains the Infinty Add-on Patcher. This is used to import custom files (TBG or
+IAP files) into your game.  This process is like UNZIPPING a ZIP file. It drops
+all the files into the right locations for your game to use them and makes the
+updates to your master text file for your game so that all the new items, spells,
+etc. have their new names and descriptions.
+
+To get IEES (which can be used to install any IAP/TBG files you find on the web)
+goto TeamBG's web site with this URL to go directly to the IEES download:
+
+http://www.teambg.com/iees.htm
+
+Now depending upon how the creator made this pack, there may be special
+instructions about what to do to activate or spawn the item, spell, creature, or 
+whatever when you actually run your game.  See the special instructions section
+above for this information.
+==================================================================================
+Visit the following sites to make your games more fun:
+------------------------------------------------------
+http://www.teambg.com/  (game customizing programs/editors)
+http://www.teambg.org/  (game MOD/add-ons/total conversion news)
+http://www.dsotsc.com/  (Dark Side of the Sword Coast unofficial BG/TotSC add-on)

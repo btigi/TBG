@@ -1,0 +1,3 @@
+Hope this helps. Just reminding that the tbg file is only the dialog file.
+I have no idea if this helps but I hope it does, it works well on my game.
+Just drop the other items into your SoA's override folder.
