@@ -16,3 +16,5 @@ This repository contains an archive of TBG files recovered from the Way Back Mac
 [qtnt (2006)](http://www.users.bigpond.com/qtnt/)
 
 [soldier](http://soldier.rpgxtreme.com/ (2000))
+
+[Xan's Keep](http://www.angelfire.com/rpg2/xankeep/customs/items/ (2019))
